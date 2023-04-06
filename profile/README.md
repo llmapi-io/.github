@@ -6,8 +6,17 @@
 We provide **open source** and simple **OpenAPI** interface services, allowing developers to use `LLMs` to focus on **developing amazing applications** . Enjoy It! :hearts:
 
 ---
+What can we do with llmapi?
 
-We currently support `LLMs` such as `ChatGPT` `GPT-3` `NewBing` `Welm` through official or unofficial interfaces. 
+- Chat directly with LLMs, such as chatgpt, try [WebChat demo](https://llmapi.chat)
+- Draw pictures with your creative prompts
+- Develop interesting applications with embedding like `llama-index` or `langchain` and others.
+- Deploy your own LLM Openapi service with [llmapi-server](https://github.com/llmapi-io/llmapi-server)
+- Explore some other interesting ways to play with simple OpenAPI，try [small-smart-siri](https://github.com/llmapi-io/small-smart-siri),[feishu-webchat](https://github.com/llmapi-io/feishu-webchat), or just develop your own apps!
+- More ... `WIP` !
+---
+
+We currently support `LLMs` such as `ChatGPT` `Embedding` `GPT-3` `NewBing` `Welm` through official or unofficial interfaces. 
 
 Others like `llama` `stable diffusion` `ControlNet` are under development or in TODOs.
 
