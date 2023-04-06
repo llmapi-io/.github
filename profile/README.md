@@ -12,7 +12,7 @@ What can we do with llmapi?
 - Draw pictures with your creative prompts
 - Develop interesting applications with embedding like `llama-index` or `langchain` and others.
 - Deploy your own LLM Openapi service with [llmapi-server](https://github.com/llmapi-io/llmapi-server)
-- Explore some other interesting ways to play with simple OpenAPI，try [small-smart-siri](https://github.com/llmapi-io/small-smart-siri),[feishu-webchat](https://github.com/llmapi-io/feishu-chatbot), or just develop your own apps!
+- Explore some other interesting ways to play with simple OpenAPI，try [small-smart-siri](https://github.com/llmapi-io/small-smart-siri),[feishu-chatbot](https://github.com/llmapi-io/feishu-chatbot), or just develop your own apps!
 - More ... `WIP` !
 ---
 
