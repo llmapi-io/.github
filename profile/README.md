@@ -3,7 +3,7 @@
   <h1 align="center">LLMApi</h1>
 </p>
 
-We provide **open source** and simple **OpenAPI** interface services, allowing developers to use `LLMs` to focus on **developing amazing applications** . Enjoy It! :hearts:
+We provide **open source** and **All-In-One** simple **OpenAPI** interface services, allowing developers to use `LLMs` to focus on **developing amazing applications** . Enjoy It! :hearts:
 
 ---
 What can we do with llmapi?
